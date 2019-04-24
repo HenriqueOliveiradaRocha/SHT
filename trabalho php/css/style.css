@@ -1,0 +1,42 @@
+body {
+  background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+ border: 1px transparent;
+}
+footer{
+	height: 150px;
+}
+.nav{
+	position:fixed;
+}
+.container-lateral{
+	background-color: #007bff;
+	color: white;
+}
+
+.container{
+	position: relative;
+	 margin-left: 200px;
+}
+.nav-link{
+	color: black;
+}
+.btn-outline-success{
+	background-color:#0000FF;
+	color: black;
+	border: 1px transparent;
+	outline-color:  #007bff;
+}
+.formas-pagamento{
+	position: relative;
+	height: 150px;
+	width: -100px;
+}
+.d-flex{
+	position: fixed;
+	color: #007bff;
+}
